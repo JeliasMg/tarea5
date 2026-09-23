@@ -139,7 +139,6 @@ mean(casen$ingreso, na.rm = TRUE)    # promedio ignorando los faltantes
 # sector y región, varios grupos quedan con muy pocas personas (varios
 # con n de 1 o 2), lo que hace que sus promedios sean poco confiables.
 
-
 ## Declaración de autoría y uso de IA
 # Herramienta utilizada: claude ia y chat gpt
 # Para qué la usé: para fortalecer y terminar de entender mediante ejemplos
